@@ -1,7 +1,5 @@
 /* styles.css */
 
-@import url('https://fontcdn.ir/css?family=Vazir');
-
 @media print {
     body {
         display: none !important;
