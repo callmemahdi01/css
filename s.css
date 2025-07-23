@@ -1,11 +1,5 @@
 /* styles.css */
 
-@media print {
-    body {
-        display: none;
-    }
-}
-
 /* --- General Body and Layout --- */
 body {
     font-family: 'Vazirmatn', sans-serif;
