@@ -1,10 +1,10 @@
 /* styles.css */
 
-@media print {
+/* @media print {
     body {
         display: none;
     }
-}
+} */
 
 /* --- General Body and Layout --- */
 body {
