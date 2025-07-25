@@ -94,7 +94,7 @@ body.annotation-active {
 
 #annotationToolsPanel input[type="color"] {
     width: 45px;
-    height: 40px;
+    height: 30px;
     border: none;
     border-radius: 20px;
     cursor: pointer;
